@@ -1,1 +1,1 @@
-# python
+Student managment sysytem
